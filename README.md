@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alammdgit
+- 👋 Hi, I’m @scichemcode
 - 👀 I’m interested in Molecular Dynamics and Quantum Mechanical Calculations
-- 🌱 I’m currently learning Programming Languages and Psi4
-- 💞️ I’m looking to collaborate on MD Simulation and Psi4
+- 🌱 I’m currently learning Python and other languages
+- 💞️
 - 📫 How to reach me ...
 
 <!---
